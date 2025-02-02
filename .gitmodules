@@ -1,4 +1,4 @@
 [submodule "volantis"]
-	path = theme/volantis
+	path = themes/volantis
 	branch = master
 	url = https://github.com/volantis-x/hexo-theme-volantis.git
